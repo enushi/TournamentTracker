@@ -1,0 +1,11 @@
+C:\Users\EN\Documents\Visual Studio 2015\Projects\TrackerLibrary\TrackerLibrary\bin\Release\TrackerLibrary.dll
+C:\Users\EN\Documents\Visual Studio 2015\Projects\TrackerLibrary\TrackerLibrary\bin\Release\TrackerLibrary.pdb
+C:\Users\EN\Documents\Visual Studio 2015\Projects\TrackerLibrary\TrackerLibrary\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\EN\Documents\Visual Studio 2015\Projects\TrackerLibrary\TrackerLibrary\bin\Release\Dapper.dll
+C:\Users\EN\Documents\Visual Studio 2015\Projects\TrackerLibrary\TrackerLibrary\bin\Release\Google.Protobuf.dll
+C:\Users\EN\Documents\Visual Studio 2015\Projects\TrackerLibrary\TrackerLibrary\bin\Release\MySql.Data.dll
+C:\Users\EN\Documents\Visual Studio 2015\Projects\TrackerLibrary\TrackerLibrary\bin\Release\Dapper.xml
+C:\Users\EN\Documents\Visual Studio 2015\Projects\TrackerLibrary\TrackerLibrary\bin\Release\Google.Protobuf.xml
+C:\Users\EN\Documents\Visual Studio 2015\Projects\TrackerLibrary\TrackerLibrary\bin\Release\MySql.Data.xml
+C:\Users\EN\Documents\Visual Studio 2015\Projects\TrackerLibrary\TrackerLibrary\obj\Release\TrackerLibrary.dll
+C:\Users\EN\Documents\Visual Studio 2015\Projects\TrackerLibrary\TrackerLibrary\obj\Release\TrackerLibrary.pdb

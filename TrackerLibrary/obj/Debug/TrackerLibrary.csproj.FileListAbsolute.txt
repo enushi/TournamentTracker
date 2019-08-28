@@ -1,0 +1,12 @@
+c:\users\en\documents\visual studio 2015\Projects\TrackerLibrary\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+c:\users\en\documents\visual studio 2015\Projects\TrackerLibrary\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+c:\users\en\documents\visual studio 2015\Projects\TrackerLibrary\TrackerLibrary\obj\Debug\TrackerLibrary.csprojResolveAssemblyReference.cache
+c:\users\en\documents\visual studio 2015\Projects\TrackerLibrary\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+c:\users\en\documents\visual studio 2015\Projects\TrackerLibrary\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+c:\users\en\documents\visual studio 2015\Projects\TrackerLibrary\TrackerLibrary\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\en\documents\visual studio 2015\Projects\TrackerLibrary\TrackerLibrary\bin\Debug\Dapper.dll
+c:\users\en\documents\visual studio 2015\Projects\TrackerLibrary\TrackerLibrary\bin\Debug\Google.Protobuf.dll
+c:\users\en\documents\visual studio 2015\Projects\TrackerLibrary\TrackerLibrary\bin\Debug\MySql.Data.dll
+c:\users\en\documents\visual studio 2015\Projects\TrackerLibrary\TrackerLibrary\bin\Debug\Dapper.xml
+c:\users\en\documents\visual studio 2015\Projects\TrackerLibrary\TrackerLibrary\bin\Debug\Google.Protobuf.xml
+c:\users\en\documents\visual studio 2015\Projects\TrackerLibrary\TrackerLibrary\bin\Debug\MySql.Data.xml
